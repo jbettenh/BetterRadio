@@ -15,5 +15,6 @@ Open the wpa_supplicant.conf and edit the SSID and PSK with your WiFi network na
 
 ### Playlist for Stations ###
 Add the default.m3u file to the following directory: /etc/vlcd/
+Each line should be a separate station link.
 
 
